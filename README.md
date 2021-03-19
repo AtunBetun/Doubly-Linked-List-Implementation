@@ -3,15 +3,15 @@ Programming II Object Oriented Programming
           Final Assignment: Develop a linkedlist.cpp implementation of a doubly linked list with dummy header and tail. The linked list will store statistical information concerning a survey on whether people believe whether “Cheese Cake” is a pie or cake. 
           
 Functions Implemented:
-a. Empty()
-b. Size() - How many records are contained
-c. Find() - Find a specific record
-d. Insert() - Insert a node
-e. Delete() - Delete a node
-f. Print() - Print to standard output
-g. List() - List the current record to standard output
-h. CountPie() - Count the number of records that believe it is a Pie
-i. CountCake()- Count the number of records that believe it is a Cake
+          Empty()
+          Size() - How many records are contained
+          Find() - Find a specific record
+          Insert() - Insert a node
+          Delete() - Delete a node
+          Print() - Print to standard output
+          List() - List the current record to standard output
+          CountPie() - Count the number of records that believe it is a Pie
+          CountCake()- Count the number of records that believe it is a Cake
   
   
 The file will contain an undisclosed number of records that contain the following fields, each
