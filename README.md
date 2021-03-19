@@ -4,14 +4,23 @@ Programming II Object Oriented Programming
           
 Functions Implemented:
           Empty()
+          
           Size() - How many records are contained
+          
           Find() - Find a specific record
+          
           Insert() - Insert a node
+          
           Delete() - Delete a node
+    
           Print() - Print to standard output
+          
           List() - List the current record to standard output
+          
           CountPie() - Count the number of records that believe it is a Pie
+          
           CountCake()- Count the number of records that believe it is a Cake
+          
   
   
 The file will contain an undisclosed number of records that contain the following fields, each
